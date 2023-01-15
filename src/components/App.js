@@ -1,5 +1,3 @@
-Sign Up form wale me repo clone karke App.js me ye code paste kar dijiye
----------------------------------------------------------------------------------------------
 
 /* App.js */
 
